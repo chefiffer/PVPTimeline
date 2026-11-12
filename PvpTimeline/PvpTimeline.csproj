@@ -1,0 +1,14 @@
+<Project Sdk="Dalamud.NET.Sdk/15.0.0">
+  <PropertyGroup>
+    <Version>0.0.1</Version><Author>PvP Timeline Contributors</Author><Name>PvP Timeline</Name>
+    <Punchline>Two-row PvP action and received-effect timeline.</Punchline>
+    <Description>Independent local PvP timeline. Large GCD icons, small abilities and distinct observed timing tracks. No automatic gameplay or uploads.</Description>
+    <AllowUnsafeBlocks>true</AllowUnsafeBlocks><Nullable>enable</Nullable><ImplicitUsings>enable</ImplicitUsings>
+    <PackageLicenseExpression>AGPL-3.0-only</PackageLicenseExpression>
+  </PropertyGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="ui-localization.txt" LogicalName="PvpTimeline.ui-localization.txt" />
+    <EmbeddedResource Include="Assets/localization/action_names.json" LogicalName="PvpTimeline.actions.json" />
+    <EmbeddedResource Include="Assets/localization/status_names.json" LogicalName="PvpTimeline.statuses.json" />
+  </ItemGroup>
+</Project>

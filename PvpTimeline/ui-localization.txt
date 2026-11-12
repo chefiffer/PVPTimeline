@@ -1,0 +1,88 @@
+# UTF-8; key|简体中文|繁體中文|Deutsch|Français|日本語; English uses key
+Settings|设置|設定|Einstellungen|Paramètres|設定
+Action|技能|技能|Aktion|Action|アクション
+Status|状态|狀態|Status|Effet|ステータス
+Unmatched animations|动画待关联|動畫待關聯|Nicht zugeordnete Animationen|Animations non associées|未関連のアニメーション
+Damage glow|直暴柔光|直暴柔光|Trefferleuchten|Lueur des coups|ヒットの発光
+Cached|缓存|快取|Zwischengespeichert|En cache|キャッシュ
+Dropped events|丢失事件|遺失事件|Verworfene Ereignisse|Événements perdus|欠落イベント
+Ambiguous|关联不明确|關聯不明確|Mehrdeutig|Associations ambiguës|関連不明
+ready|就绪|就緒|Bereit|Prêt|準備完了
+not_initialized|未初始化|未初始化|Nicht initialisiert|Non initialisé|未初期化
+asset_missing|缺少贴图|缺少貼圖|Textur fehlt|Texture absente|テクスチャなし
+invalid_asset|贴图无效|貼圖無效|Ungültige Textur|Texture invalide|無効なテクスチャ
+Self|自身|自身|Selbst|Soi-même|自身
+Unknown|未观测|未觀測|Nicht beobachtet|Non observé|未観測
+Unseen source|未观测来源|未觀測來源|Unbekannte Quelle|Source non observée|未観測の付与者
+Remaining|本人剩余时间|本人剩餘時間|Eigene Restdauer|Durée restante personnelle|自身の残り時間
+No personal countdown|无本人倒数，来源倒数未关联|無本人倒數，來源倒數未關聯|Kein eigener Timer; Quell-Timer nicht zugeordnet|Pas de décompte personnel ; décompte source non associé|自身のカウントなし。付与者のカウントは未関連
+Observed duration|已观测时长|已觀測時長|Beobachtete Dauer|Durée observée|観測した時間
+Observation gap|观测中断|觀測中斷|Beobachtungslücke|Interruption de l’observation|観測の中断
+Removed|已移除|已移除|Entfernt|Retiré|解除済み
+Present|存在／待确认|存在／待確認|Vorhanden / ausstehend|Présent / en attente|存在／確認待ち
+Parameter|状态参数|狀態參數|Statusparameter|Paramètre d’effet|ステータスのパラメータ
+Refreshes|刷新次数|刷新次數|Erneuerungen|Renouvellements|更新回数
+Frozen|已冻结|已凍結|Eingefroren|Affichage figé|表示停止中
+Ability bar offset|能力技条位置|能力技條位置|Versatz des Fähigkeitsbalkens|Décalage des barres d’aptitude|アビリティバーの位置
+GCD bar thickness|GCD条宽|GCD條寬|Dicke des GCD-Balkens|Épaisseur des barres GCD|ＧＣＤバーの太さ
+Ability bar thickness|能力技条宽|能力技條寬|Dicke des Fähigkeitsbalkens|Épaisseur des barres d’aptitude|アビリティバーの太さ
+Language|语言|語言|Sprache|Langue|言語
+Pixels|像素|像素|px|px|ピクセル
+Rows|行|列|Zeilen|lignes|行
+per second|次／秒|次／秒|pro Sekunde|par seconde|回／秒
+Display|显示|顯示|Anzeige|Affichage|表示
+Enabled|启用|啟用|Aktiviert|Activé|有効
+Locked|锁定（鼠标穿透）|鎖定（滑鼠穿透）|Gesperrt (Mausdurchgriff)|Verrouillé (clics traversants)|固定（マウス透過）
+Combat only|仅战斗中|僅戰鬥中|Nur im Kampf|En combat uniquement|戦闘中のみ
+Hide in cutscene|过场隐藏|過場隱藏|In Zwischensequenzen ausblenden|Masquer pendant les cinématiques|カットシーン中は非表示
+Own status history|自身状态轴|自身狀態軸|Eigene Statuseffekte|Historique des effets personnels|自身のステータス履歴
+Native animation observation|原生动画采集（涉及游戏指针）|原生動畫採集（涉及遊戲指標）|Native Animationserfassung|Observation des animations natives|ネイティブアニメーションの観測
+Status rows|状态轴行数|狀態軸行數|Statuszeilen|Lignes d’effets|ステータス行数
+Status row height|状态轴行高|狀態軸行高|Höhe der Statuszeilen|Hauteur des lignes d’effets|ステータス行の高さ
+Horizontal|横向|橫向|Horizontal|Horizontal|横方向
+Reverse|反向|反向|Umgekehrt|Inverser|逆方向
+Locked background|锁定背景|鎖定背景|Hintergrund bei Sperre|Fond verrouillé|固定時の背景
+Unlocked background|解锁背景|解鎖背景|Hintergrund ohne Sperre|Fond déverrouillé|固定解除時の背景
+Opacity|透明度|透明度|Deckkraft|Opacité|不透明度
+Scale|整体缩放|整體縮放|Gesamtskalierung|Échelle globale|全体の表示倍率
+Layout|排版|排版|Anordnung|Disposition|レイアウト
+GCD size|GCD 图标大小|GCD 圖示大小|GCD-Symbolgröße|Taille des icônes GCD|ＧＣＤアイコンのサイズ
+Ability size|能力技图标大小|能力技圖示大小|Fähigkeitssymbolgröße|Taille des icônes d’aptitude|アビリティアイコンのサイズ
+Ability offset|能力技高度|能力技高度|Fähigkeitsversatz|Décalage des aptitudes|アビリティの位置
+Lane gap|插入技排间距|插入技列間距|Spurabstand|Espacement des pistes|アビリティ行の間隔
+Fill opacity|条内填充不透明度|條內填色不透明度|Fülldeckkraft|Opacité du remplissage|バー内部の不透明度
+Bar offset|GCD 条位置|GCD 條位置|GCD-Balkenversatz|Décalage de la barre GCD|ＧＣＤバーの位置
+Cast offset|读条位置|詠唱條位置|Zauberbalkenversatz|Décalage de l’incantation|詠唱バーの位置
+Animation offset|动画条位置|動畫條位置|Animationsversatz|Décalage des animations|アニメーションバーの位置
+Bar thickness|条宽|條寬|Balkendicke|Épaisseur des barres|バーの太さ
+Marker size|菱形大小|菱形大小|Markierungsgröße|Taille des marqueurs|マーカーのサイズ
+Tracks|轨道|軌道|Spuren|Pistes|トラック
+GCD|公共冷却|共通冷卻|Globaler Cooldown|Temps de recharge global|グローバルクールダウン
+Cast|咏唱|詠唱|Zauberzeit|Incantation|詠唱
+Lock|动作锁|動作鎖|Aktionssperre|Verrouillage d’action|アクションロック
+Animation|动画|動畫|Animation|Animation|アニメーション
+Effects|目标效果|目標效果|Zieleffekte|Effets sur la cible|対象への効果
+Cooldown|独立冷却|獨立冷卻|Eigener Cooldown|Recharge individuelle|個別リキャスト
+Short own recast|自身短冷却|自身短冷卻|Kurzer eigener Cooldown|Recharge individuelle courte|短い個別リキャスト
+Abilities|能力技|能力技|Fähigkeiten|Aptitudes|アビリティ
+Auto attacks|自动攻击|自動攻擊|Auto-Angriffe|Attaques automatiques|オートアタック
+Time|时间|時間|Zeit|Temps|時間
+px per second|每秒像素|每秒像素|Pixel pro Sekunde|Pixels par seconde|１秒あたりのピクセル数
+History|历史秒数|歷史秒數|Vergangenheit (Sekunden)|Historique (secondes)|過去の表示秒数
+Future|未来秒数|未來秒數|Zukunft (Sekunden)|Futur (secondes)|未来の表示秒数
+Fixed grid|固定网格|固定格線|Festes Raster|Grille fixe|固定グリッド
+Seconds|秒数标号|秒數標記|Sekundenanzeige|Repères en secondes|秒数表示
+Subdivisions|每秒细分|每秒細分|Unterteilungen pro Sekunde|Subdivisions par seconde|１秒あたりの分割数
+Feedback|高亮反馈|高亮回饋|Hervorhebung|Mise en évidence|強調表示
+Damage highlight|直击／暴击柔光|直擊／暴擊柔光|Direkte/kritische Treffer hervorheben|Lueur des coups directs et critiques|クリティカル・ダイレクトヒットの発光
+Critical|暴击|暴擊|Kritischer Treffer|Coup critique|クリティカル
+Direct|直击|直擊|Direkter Treffer|Coup direct|ダイレクトヒット
+Critical direct|直暴|直暴|Kritischer direkter Treffer|Coup direct critique|クリティカルダイレクトヒット
+Animation replaced|动画被覆盖|動畫被覆蓋|Animation überschrieben|Animation remplacée|アニメーションの上書き
+Trigger opacity|被动效果不透明度|被動效果不透明度|Deckkraft ausgelöster Effekte|Opacité des effets déclenchés|自動発動効果の不透明度
+Freeze|冻结观察|凍結觀察|Einfrieren|Figer|表示を停止
+Live|恢复实时|恢復即時|Live fortsetzen|Reprendre|リアルタイム表示に戻す
+Clear|清空|清空|Leeren|Effacer|消去
+Diagnostics|诊断|診斷|Diagnose|Diagnostic|診断
+Copy effect diagnostics|复制效果诊断|複製效果診斷|Effektdiagnose kopieren|Copier le diagnostic des effets|効果の診断情報をコピー
+Mounting|上坐骑|上坐騎|Aufsitzen|Monter sur une monture|マウントに騎乗
