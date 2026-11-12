@@ -189,4 +189,6 @@ PvP Timeline 不是上述项目的官方版本。游戏图标及相关素材的�
 
 ## 许可证
 
-PvP Timeline 采用 GNU Affero General Public License v3.0。完整条款请参阅 [LICENSE](LICENSE)；上游 fork 保留的 MIT 声明请参阅 [THIRD-PARTY-NOTICES.txt](THIRD-PARTY-NOTICES.txt)。
+PvP Timeline 采用 GNU Affero 通用公共许可证第 3 版（AGPL-3.0）授权。详情请参阅 [LICENSE](https://github.com/chefiffer/PVPTimeline/blob/main/LICENSE)。
+
+本项目保留了上游 MIT 许可项目的版权声明及许可证信息，详见 [THIRD-PARTY-NOTICES.txt](https://github.com/chefiffer/PVPTimeline/blob/main/THIRD-PARTY-NOTICES.txt)。
