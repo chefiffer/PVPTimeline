@@ -6,6 +6,8 @@ A personal, real-time action timeline for PvP in FINAL FANTASY XIV.
 
 See action use, casting, the global cooldown, animation lock, your own animations, and effect feedback on one timeline. Review what you just did: when you used an action, when its effects were received, and which abilities you weaved in between.
 
+![PvP Timeline in-game preview](assets/pvp-timeline-preview.gif)
+
 > This is a test release. Game updates may affect observation and display, and feedback may still be missing for certain action stages. The timeline shows local observations, not an exact reconstruction of the server's internal hit detection. It does not automate actions.
 
 ## How it works
