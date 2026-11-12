@@ -48,7 +48,7 @@
    https://raw.githubusercontent.com/chefiffer/dalamud-plugins/main/repo.json
    ```
 
-4. 打开插件安装器，搜索 **PVPTimeline ** 并安装。
+4. 打开插件安装器，搜索 **PVPTimeline** 并安装。
 
 5. 在游戏聊天栏输入以下命令打开设置：
 
