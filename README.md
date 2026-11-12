@@ -184,4 +184,6 @@ PvP Timeline is not an official version of that project. Game icons and related 
 
 ## License
 
-PvP Timeline is licensed under the GNU Affero General Public License v3.0. See [LICENSE](LICENSE). The retained MIT notice for the upstream fork is included in [THIRD-PARTY-NOTICES.txt](THIRD-PARTY-NOTICES.txt).
+PvP Timeline is licensed under the GNU Affero General Public License v3.0 (AGPL-3.0). See [LICENSE](https://github.com/chefiffer/PVPTimeline/blob/main/LICENSE).
+
+Copyright and license notices for the upstream MIT-licensed project are preserved in [THIRD-PARTY-NOTICES.txt](https://github.com/chefiffer/PVPTimeline/blob/main/THIRD-PARTY-NOTICES.txt).
